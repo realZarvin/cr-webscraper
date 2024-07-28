@@ -60,10 +60,34 @@ for link in https_links:
             email_password = my_module.email
             email_receiver = items
 
-            subject = "Proposal Of Listing On BitGet CEX Exchange"
-            body = """
-           Greetings! Your crypto project has immense potential, and I believe listing your token on Bitget Exchange could be a game-changer. Bitget offers a user-friendly interface, advanced trading features, and a secure platform. By listing on Bitget, you can tap into their vibrant community and attract more investors. You can reply to this email for more information. Just so you know, I'm an ambassador! Let's make your token more accessible and create a buzz in the crypto world! 🙌
-           """
+            subject = "Invitation to List Your Project on Our Leading CEX"
+
+body_template = """
+Hello
+
+I hope this message finds you well.
+
+My name is Yagazz, and I am the Community Manager at Bitmart. I am writing to extend a special invitation for you to list your project on our Centralized Exchange (CEX).
+
+At Bitmart, we are committed to providing a premier trading platform that offers extensive benefits to our listed projects, including:
+- Increased Visibility: Gain exposure to a global audience of enthusiastic traders and investors.
+- Robust Security: Our state-of-the-art security measures ensure the safety and integrity of your assets.
+- Liquidity Support: Access deep liquidity pools to facilitate seamless trading experiences for your users.
+- Dedicated Support: Benefit from our dedicated support team, ready to assist you at every step.
+
+We are confident that your project will thrive on our platform, reaching new heights and attracting a broader community of supporters.
+
+If you are interested in exploring this opportunity, please reply to this email. I would be delighted to provide you with further details and assist you with the listing process.
+
+Thank you for considering our invitation. We look forward to the possibility of collaborating with you.
+
+Best regards,
+
+Yagazz
+Community Manager
+BitMart
+zarvinns@gmail.com
+"""
             em = EmailMessage()
             em['From'] = email_sender
             em['To'] = email_receiver
