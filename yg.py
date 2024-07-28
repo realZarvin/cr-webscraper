@@ -67,7 +67,7 @@ Hello
 
 I hope this message finds you well.
 
-My name is Yagazz, and I am the Community Manager at Bitmart. I am writing to extend a special invitation for you to list your project on our Centralized Exchange (CEX).
+My name is Yagaz, and I am the Listing Manager at Bitmart. I am writing to extend an invitation for you to list your project on our Centralized Exchange (CEX).
 
 At Bitmart, we are committed to providing a premier trading platform that offers extensive benefits to our listed projects, including:
 - Increased Visibility: Gain exposure to a global audience of enthusiastic traders and investors.
